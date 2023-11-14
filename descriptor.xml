@@ -2,6 +2,8 @@
     <Folder name="lib" visible="true">
         <File name="easy-random-core 5.0.0.jar" visible="true" write="true" />
         <File name="easy-random-core 5.0.0.jar.b64" visible="true" write="true" />
+        <File name="junit-platform-console-standalone 1.10.0.jar" visible="true" write="true" />
+        <File name="junit-platform-console-standalone 1.10.0.jar.b64" visible="true" write="true" />
     </Folder>
     <Folder name="src" visible="true">
         <Folder name="main" visible="true">
