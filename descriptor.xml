@@ -1,6 +1,7 @@
 <Folder name="JavaTestProject" visible="true">
-    <Folder name="lib" visible="false">
-        <File name="easy-random-core 5.0.0.jar" visible="false" write="true" />
+    <Folder name="lib" visible="true">
+        <File name="easy-random-core 5.0.0.jar" visible="true" write="true" />
+        <File name="easy-random-core 5.0.0.jar.b64" visible="true" write="true" />
     </Folder>
     <Folder name="src" visible="true">
         <Folder name="main" visible="true">
