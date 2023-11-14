@@ -3,6 +3,7 @@ package com.eseo.example.secret;
 public class Person {
     private String name;
     private int age;
+    private String prout;
 
     /**
      * @return the name
@@ -37,6 +38,3 @@ public class Person {
         return "Person{name='" + name + '\'' + ", age=" + age + '}';
     }
 }
-
-
-prout
